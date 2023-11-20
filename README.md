@@ -66,6 +66,7 @@ select * from test_table;
 ![1](https://github.com/AndreyFilon/bd-12-09/blob/main/hosts.bmp)  
 ![2](https://github.com/AndreyFilon/bd-12-09/blob/main/operation.jpg)  
 ![3](https://github.com/AndreyFilon/bd-12-09/blob/main/1.jpg)  
-![4](https://github.com/AndreyFilon/bd-12-09/blob/main/2.jpg)  
+![4](https://github.com/AndreyFilon/bd-12-09/blob/main/5.jpg)  
+![5](https://github.com/AndreyFilon/bd-12-09/blob/main/2.jpg)  
 
 ---
